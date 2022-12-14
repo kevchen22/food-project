@@ -1,6 +1,6 @@
 # JJT Foods
 
-Sites: https://jjt-foods.herokuapp.com/
+Application: https://jjt-foods.herokuapp.com/
 
 ### Technologies Used:
 
